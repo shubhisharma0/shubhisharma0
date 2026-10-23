@@ -1,16 +1,17 @@
-## Hi there 👋
+# Shubhi Sharma
 
-<!--
-**shubhisharma0/shubhisharma0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Postdoctoral fellow at **MIT CSAIL**, working on deep learning for dynamic system modeling, uncertainty under distribution shift, and
+few shot prediction
 
-Here are some ideas to get you started:
+**Interests:** probabilistic ML · uncertainty quantification · stochastic processes
+modeling · R, PyTorch, NumPyro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 [Google Scholar](https://scholar.google.com/citations?user=JNkowVIAAAAJ&hl=en) · 🌐 Website(under construction) · ✉️ [Email](shubhi@mit.edu)
+
+### Selected projects
+- **[nichEvol-ms](https://github.com/shubhisharma0/nicheEvol_ms/tree/main)** — Novel modeling framework linking macroevolutionary models to SDMs (Ecography, 2026) 
+- **[phyloSDM_MOL]([link](https://github.com/shubhisharma0/phyloSDM_MOL))** — Tutorial on phylogenetic species distribution modeling
+
+### Currently
+- Building constrained deep-learning SDMs
+- Building a benchmark for heterogeneous learning rates
