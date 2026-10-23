@@ -10,7 +10,7 @@ modeling · R, PyTorch, NumPyro
 
 ### Selected projects
 - **[nichEvol-ms](https://github.com/shubhisharma0/nicheEvol_ms/tree/main)** — Novel modeling framework linking macroevolutionary models to SDMs (Ecography, 2026) 
-- **[phyloSDM_MOL]([link](https://github.com/shubhisharma0/phyloSDM_MOL))** — Tutorial on phylogenetic species distribution modeling
+- **[phyloSDM_MOL](https://github.com/shubhisharma0/phyloSDM_MOL)** — Tutorial on phylogenetic species distribution modeling
 
 ### Currently
 - Building constrained deep-learning SDMs
