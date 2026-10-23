@@ -6,7 +6,7 @@ few shot prediction
 **Interests:** probabilistic ML · uncertainty quantification · stochastic processes
 modeling · R, PyTorch, NumPyro
 
-📄 [Google Scholar](https://scholar.google.com/citations?user=JNkowVIAAAAJ&hl=en) · 🌐 Website(under construction) · ✉️ [Email](shubhi@mit.edu)
+📌[Google Scholar](https://scholar.google.com/citations?user=JNkowVIAAAAJ&hl=en) · 🌐 Website(under construction) · ✉️ [Email](shubhi@mit.edu)
 
 ### Selected projects
 - **[nichEvol-ms](https://github.com/shubhisharma0/nicheEvol_ms/tree/main)** — Novel modeling framework linking macroevolutionary models to SDMs (Ecography, 2026) 
